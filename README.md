@@ -1,3 +1,7 @@
+# DEPRECATED
+
+ButterKnife supports library projects starting with version [8.2.0](https://github.com/JakeWharton/butterknife/blob/master/CHANGELOG.md#version-820-2016-07-10). No new development will be taking place on this fork.
+
 Butter Fork
 ===========
 
